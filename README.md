@@ -3,76 +3,76 @@
 ![Picture1](https://user-images.githubusercontent.com/86855538/127944017-815a23dc-cd16-4788-b29d-5bb0483e11af.png)
 
 
-You said
+You said:
 
 hi
 
-Watson Assistant said
+Watson Assistant said:
 
 hello
 
-You said
+You said:
 
 do you have reservation?
 
-Watson Assistant said
+Watson Assistant said:
 
 Choose a day
 
-You said
+You said:
 
 sunday
 
-Watson Assistant said
+Watson Assistant said:
 
 Time?
 
-You said
+You said:
 
 5pm
 
-Watson Assistant said
+Watson Assistant said:
 
 How many people?
 
-You said
+You said:
 
 3
 
-Watson Assistant said
+Watson Assistant said:
 
 Your reservation has been successfully completed
 
 ![Picture2](https://user-images.githubusercontent.com/86855538/127944052-cc7728b8-51ef-47f3-9945-fb4f48e09050.png)
 
-You said
+You said:
 
 hi
 
-Watson Assistant said
+Watson Assistant said:
 
 Hello!
 
-You said
+You said:
 
 cancel reservation
 
-Watson Assistant said
+Watson Assistant said:
 
 what day?
 
-You said
+You said:
 
 sunday
 
-Watson Assistant said
+Watson Assistant said:
 
 what time?
 
-You said
+You said:
 
 5pm
 
-Watson Assistant said
+Watson Assistant said:
 
 Your reservation has been successfully canceled
